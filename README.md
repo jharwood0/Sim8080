@@ -9,7 +9,10 @@ Instruction Set:
 
 |Inst |     Encoding |         Flags |  Description |
 |----------------------------------------------------------------------|
-|MOV D,S |  01DDDSSS        |  -       Move register to register
+|MOV D,S |  01DDDSSS        |  -       Move register to register |
+
+
+
 |MVI D,# |  00DDD110 db     |  -       Move immediate to register
 |LXI RP,#|  00RP0001 lb hb  |  -       Load register pair immediate
 |LDA a   |  00111010 lb hb  |  -       Load A from memory
