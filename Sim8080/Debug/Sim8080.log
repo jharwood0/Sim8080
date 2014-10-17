@@ -1,0 +1,43 @@
+﻿Build started 17/10/2014 10:54:11.
+     1>Project "\\nstu-uwe12\users$\j4-harwood\Personal\Sim8080\Sim8080\Sim8080.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Sim8080.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Sim8080.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Sim8080.cpp
+         Sim8080.cpp
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(620): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(626): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(632): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(461): warning C4101: 'temp_byte' : unreferenced local variable
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(459): warning C4101: 'hl' : unreferenced local variable
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(825): warning C4101: 'temp' : unreferenced local variable
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(1859): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(1874): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(2025): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(2033): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : see declaration of 'sscanf'
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(2037): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : see declaration of 'sscanf'
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(2089): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(2101): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : see declaration of 'sscanf'
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(2142): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : see declaration of 'sscanf'
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(2146): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : see declaration of 'sscanf'
+     1>\\nstu-uwe12\users$\j4-harwood\personal\sim8080\sim8080\sim8080.cpp(2177): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\nstu-uwe12\users$\j4-harwood\Personal\Sim8080\Debug\Sim8080.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\nstu-uwe12\users$\j4-harwood\Personal\Sim8080\Debug\Sim8080.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\nstu-uwe12\users$\j4-harwood\Personal\Sim8080\Debug\Sim8080.lib" /MACHINE:X86 /SAFESEH Debug\Sim8080.obj
+         Debug\stdafx.obj
+     1>Sim8080.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         Sim8080.vcxproj -> \\nstu-uwe12\users$\j4-harwood\Personal\Sim8080\Debug\Sim8080.exe
+     1>Done Building Project "\\nstu-uwe12\users$\j4-harwood\Personal\Sim8080\Sim8080\Sim8080.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.07
